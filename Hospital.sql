@@ -205,3 +205,4 @@ and bmi > 35
 order by death_probability desc
 
 
+-- Dashboard link https://github.com/Shrinath23/Portfolio_Project_Power-Bi/blob/main/Hospital_Dashbord.pbix 
